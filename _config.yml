@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: todo
+url: https://namenotfounderror.github.io/
 date_format: "ordinal"
 title: todo
 subtitle: "todo"
