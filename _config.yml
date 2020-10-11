@@ -6,7 +6,7 @@ url: https://foobarsblog.top
 date_format: "ordinal"
 title: todo
 subtitle: "todo"
-description: "todo"
+description: "花有重开日,人无再少年"
 keywords: todo
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -38,12 +38,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: JianJun Fu
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: NameNotFoundError
+location: NanJing, China
+email: gurenyinan@126.com
 
 # ---------------- #
 #    Navigation    #
