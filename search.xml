@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>深入理解Java虚拟机系列(一):内存布局</title>
+      <link href="/2022/06/12/shen-ru-li-jie-java-xu-ni-ji-xi-lie-yi-nei-cun-bu-ju/"/>
+      <url>/2022/06/12/shen-ru-li-jie-java-xu-ni-ji-xi-lie-yi-nei-cun-bu-ju/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Java虚拟机 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2022/06/10/hello-world/"/>
       <url>/2022/06/10/hello-world/</url>
