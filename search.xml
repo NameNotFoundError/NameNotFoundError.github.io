@@ -8,7 +8,7 @@
       <link href="/2022/06/12/shen-ru-li-jie-java-xu-ni-ji-xi-lie-yi-nei-cun-bu-ju/"/>
       <url>/2022/06/12/shen-ru-li-jie-java-xu-ni-ji-xi-lie-yi-nei-cun-bu-ju/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>Java虚拟机在执行Java程序的时候会把它所管理的内存划分成若干个不同的区域，每个区域的用途各不相同，根据《Java虚拟机规范》的规定，将内存区域划分为以下五个部分：</p><ul><li>程序计数器（Program Counter Register）</li><li>虚拟机栈（Virtual Stack）</li><li>本地方法栈（Native Method Stack）</li><li>堆（Heap）</li><li>方法区（Method Area）</li></ul><p><img src="/2022/06/12/shen-ru-li-jie-java-xu-ni-ji-xi-lie-yi-nei-cun-bu-ju/1162587-20200917170544775-1625770619.png" alt="图一"></p>]]></content>
       
       
       
